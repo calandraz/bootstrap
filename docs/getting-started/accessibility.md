@@ -7,13 +7,14 @@ group: getting-started
 
 Bootstrap follows common web standards and—with minimal extra effort—can be used to create sites that are accessible to those using <abbr title="Assistive Technology" class="initialism">AT</abbr>.
 
+## Contents
+
+* Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
+
 ## Component requirements
 
 Some common HTML elements are always in need for basic accessibility enhancements through `role`s and Aria attributes. Below is a list of some of the most frequently used ones.
-
-{% callout info %}
-**Heads up!** As we go through the alphas, we'll be moving more accessibility notes here with links to specific sections from other areas of the docs.
-{% endcallout %}
 
 ### Button groups
 
